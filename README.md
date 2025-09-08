@@ -1,202 +1,86 @@
-# Илья <span style="color: #2B8CC4">Калинин</span>
-### Junior Software Engineer [![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/Visoff&label=Visitors&countColor=%232B8CC4)](https://visitorbadge.io/status?path=https://github.com/Visoff)
+<h1 align="center">Hi, I'm Ilya Kalinin 👋</h1>
+<h3 align="center">A passionate Systems Software Engineer from Omsk, Russia</h3>
 
-<p align="left">
-  📧 <a href="mailto:ikalinin01@mail.ru">ikalinin01@mail.ru</a>
-  📱 &#43;7 (913) 627 54-12
-  🌐 <a href="https://visoff.ru">https://visoff.ru</a>
+<p align="center">
+  <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:iklinin01@mail.ru"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://visoff.ru"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"></a>
+  <a href="[Your Twitter URL, if you have one]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 ---
 
-## 🧑💻 Обо мне
-Начинающий инженер-программист: разработка системного ПО и веб-приложений. Создаю СУБД, компиляторы и full-stack решения на Go/Zig/React с использованием Docker/Kubernetes.
+### 🧠 About Me
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Visoff&show_icons=true&theme=transparent&hide_border=true&title_color=2B8CC4&icon_color=2B8CC4&text_color=000000"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visoff&layout=compact&theme=transparent&hide_border=true&title_color=2B8CC4"/>
-</div>
-
----
-
-## 🏆 Достижения
-![Alt text](https://github.com/Visoff/Visoff/blob/main/trophy.svg?raw=true)
+- 🔭 I’m currently working on from-scratch relational database with a B+ tree index.
+- 🌱 I’m currently exploring **compiler design** and **distributed systems**.
+- 👯 I’m looking to collaborate on **open-source systems projects** in Zig, Rust, or Go.
+- 💡 Passionate about **rebuilding complex systems** (DBs, compilers, runtimes) to understand them deeply.
+- 💬 Ask me about **memory management, parsing, algorithms, or the Omsk IT community**.
+- 📫 How to reach me: **iklinin01@mail.ru**
+- ⚡ Fun fact: I love teaching and have mentored school kids in computer science.
 
 ---
 
-## 🛠️ Навыки
+### 🛠️ Tech Stack & Tools
 
-- **HTML/CSS**  
-  `🟩🟩🟩🟩⬜` Эксперт
-  
+**Languages:**
 
-- **Tailwind**  
-  `🟩🟩🟩🟩⬜` Эксперт
-  
+![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **React**  
-  `🟩🟩🟩🟩⬜` Эксперт
-  
+**Frameworks & Ecosystems:**
 
-- **Next**  
-  `🟩🟩🟩🟩⬜` Эксперт
-  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 
-- **Linux**  
-  `🟩🟩🟩🟩🟩` Профессионал
+**Tools & Platforms:**
 
-- **Git**  
-  `🟩🟩🟩🟩⬜` Эксперт
-  
-
-- **NodeJS/Bun/Deno**  
-  `🟩🟩🟩🟩🟩` Профессионал
-
-- **MongoDB**  
-  `🟩🟩🟩⬜⬜` Продвинутый
-  
-
-- **PostgreSQL**  
-  `🟩🟩🟩🟩⬜` Эксперт
-  
-
-- **Python**  
-  `🟩🟩🟩🟩⬜` Эксперт
-  
-
-- **Golang**  
-  `🟩🟩🟩🟩🟩` Профессионал
-
-- **C/C&#43;&#43;/Rust/Zig**  
-  `🟩🟩🟩🟩⬜` Эксперт
-  
-
-- **Docker**  
-  `🟩🟩🟩🟩🟩` Профессионал
-
-- **K8s**  
-  `🟩⬜⬜⬜⬜` Начинающий
-  
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🌍 Языки
+### 🚀 Highlighted Projects
 
-- **Русский**  
-  `◉◉◉◯◯` Эксперт
-  
+A curated list of things I've built to learn and explore.
 
-- **Английский**  
-  `◉◉◉◯◯` Эксперт
-  
-
-
----
-
-## 💼 Опыт
-
-### NodeJS разработчик
-**Student Labs**  
-*07.2023 - 09.2023*
-
-
-- Команда Journy
-
-- Nest фреймворк
-
-
-
-### Разработчик вспомогательного ПО
-**Happy Dev Lite**  
-*02.2024 - Настоящее время*
-
-
-- Python
-
-- Google docs
-
-
-
-### Организатор мероприятий
-**CityHeroes (Город Героев)**  
-*03.2022 - 06.2024*
-
-
-- Связь с партнёрами
-
-- Налаживание системы автоматизации
-
-- Проведение мероприятий
-
-
-
-### Помощник по инфраструктуре
-**Student Labs**  
-*11.2024 - 03.2025*
-
-
-- Deno &#43; Deno KV
-
-- Notion API
-
-- Buildin
-
-
-
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **On-Memory DB** | A relational database engine built from scratch with a custom B+ tree index and SQL-like query parser. | `Go`, `Zig`, `Algorithms` |
+| **Custom Language Interpreter** | An interpreter for a statically-typed language featuring a Rust-inspired ownership model and type system. | `Zig`, `Parsing`, `Compilers` |
+| **Markdown Parser** | A performant Markdown parser that produces a detailed Abstract Syntax Tree (AST) for conversion to HTML. | `Rust`, `Parsing`, `AST` |
+| **DevServices Orchestrator** | A system to model server cluster processes as a graph for optimization and resource allocation analysis. | `Rust`, `Go`, `Graph Theory` |
+| **HappyDevLite Bot** | A Telegram bot that automated user authorization and station management for a local IT event. | `Python`, `Telegram API` |
 
 ---
 
-## 🎓 Образование
+### 📈 GitHub Stats
 
-### Бакалавриат
-**ОмГУ**  
-*Факультет Цифровых Технологий и Кибербезопасности*  
-09.2024 - 06.2028
-
-
-### Курсы
-**Harvard**  
-*Computer Science*  
-06.2024 - 08.2024
-
-
-### Курсы
-**Махаон**  
-*Программирование*  
-09.2022 - 06.2024
-
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Visoff&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Visoff&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Visoff&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Ilya's GitHub Stats" />
+</picture>
 
 ---
 
-## 🚀 Проекты
-
-### DataBase
-🔗 [Ссылка на проект](https://github.com/Visoff/database)  
-🛠 **Технологии:** Golang, Zig, C, 
-
-
-- Написана с нуля
-
-- На нескольких языках
-
-- Хранине B&#43; древа на диске
-
-
-
-### Kiss
-🔗 [Ссылка на проект](https://github.com/Visoff/kiss)  
-🛠 **Технологии:** C, Kiss, 
-
-
-- Язык программирования
-
-- Чистый C
-
-- Комппилятор
-
-- Интерпритатор
-
-
-
+<p align="center">
+  <i>Thanks for visiting my profile!</i><br>
+  <i>Have a great day! 😄</i>
+</p>
